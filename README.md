@@ -1,41 +1,54 @@
+# 🎓 Student Management System
 
-# Task Manager
+A responsive Student Management System built using React.js and Vite. This application helps manage student records with a clean and user-friendly interface.
 
-A simple and responsive Task Manager web application built using React.js and Vite. This project helps users organize and manage daily tasks efficiently.
+## 🚀 Features
 
-## Features
+- Add new students
+- Edit student details
+- Delete student records
+- Search and filter students
+- Responsive design
+- Easy-to-use interface
 
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
-- Mark tasks as completed
-- Responsive user interface
-
-## Technologies Used
+## 🛠️ Technologies Used
 
 - React.js
-- JavaScript
+- JavaScript (ES6+)
 - HTML5
 - CSS3
 - Vite
 
-## Installation
+## 📂 Installation
 
 ```bash
-git clone https://github.com/aaakashgupta/task-manager.git
-cd task-manager
+git clone https://github.com/aaakashgupta/student-management-system.git
+cd student-management-system
 npm install
 npm run dev
 ```
 
-## Project Structure
+## 📁 Project Structure
 
 ```
 src/
-components/
-public/
+├── components/
+├── pages/
+├── assets/
+├── App.jsx
+└── main.jsx
 ```
 
-## Author
+## 🎯 Future Improvements
 
-Akash Gupta
+- User Authentication
+- Database Integration
+- Student Attendance
+- Result Management
+- Export Student Data
+
+## 👨‍💻 Author
+
+**Akash Gupta**
+
+- GitHub: https://github.com/aaakashgupta
